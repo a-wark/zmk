@@ -1,0 +1,10 @@
+file_format: "1"
+id: turbo-40
+name: turbo-40
+type: shield
+url: https://github.com/a-wark/turbo-40-module
+requires: [pro_micro]
+exposes: [i2c_oled]
+features: 
+  - keys
+  - display
