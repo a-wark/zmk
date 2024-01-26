@@ -1,0 +1,6 @@
+if SHIELD_TURBO_40
+
+config ZMK_KEYBOARD_NAME
+  default "turbo-40"
+
+endif
