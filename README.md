@@ -6,6 +6,10 @@ run from within the `app` directory:
 west build --pristine -b nice_nano_v2 -- -DSHIELD="turbo-40 nice_view_adapter nice_view" -DZMK_EXTRA_MODULES=/Users/andy/Documents/keyboard/turbo-40-module -DZMK_CONFIG=/Users/andy/Documents/keyboard/zmk-config/config
 ```
 
+```zsh
+west build --pristine -b nice_nano_v2 -- -DSHIELD="w-40 nice_view_adapter nice_view" -DZMK_EXTRA_MODULES=/Users/andy/Documents/keyboard/w-40-module -DZMK_CONFIG=/Users/andy/Documents/keyboard/zmk-config/config
+```
+
 # Zephyr™ Mechanical Keyboard (ZMK) Firmware
 
 [![Discord](https://img.shields.io/discord/719497620560543766)](https://zmk.dev/community/discord/invite)
