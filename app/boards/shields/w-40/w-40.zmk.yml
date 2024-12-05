@@ -1,0 +1,10 @@
+file_format: "1"
+id: w-40
+name: w-40
+type: shield
+url: https://github.com/a-wark/w-40-module
+requires: [pro_micro]
+exposes: [i2c_oled]
+features:
+  - keys
+  - display
