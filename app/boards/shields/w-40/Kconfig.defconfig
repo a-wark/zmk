@@ -1,0 +1,6 @@
+if SHIELD_W_40
+
+config ZMK_KEYBOARD_NAME
+  default "w-40"
+
+endif
