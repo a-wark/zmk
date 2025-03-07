@@ -1,6 +1,6 @@
 if SHIELD_NEW_KID_ON_THE_BLOCK_60
 
 config ZMK_KEYBOARD_NAME
-    default "new-kid-on-the-block"
+    default "new-kid-on-the-block-60"
 
 endif
