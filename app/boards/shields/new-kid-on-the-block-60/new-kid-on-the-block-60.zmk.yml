@@ -1,0 +1,9 @@
+file_format: "1"
+id: new-kid-on-the-block-60
+name: new-kid-on-the-block-60
+type: shield
+requires: [pro_micro]
+exposes: [i2c_oled]
+features:
+  - keys
+  - display

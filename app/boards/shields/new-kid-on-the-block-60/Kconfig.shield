@@ -1,0 +1,2 @@
+config SHIELD_NEW_KID_ON_THE_BLOCK_60
+    def_bool $(shields_list_contains,new-kid-on-the-block-60)
