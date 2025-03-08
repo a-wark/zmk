@@ -2,7 +2,6 @@ file_format: "1"
 id: new-kid-on-the-block-60
 name: new-kid-on-the-block-60
 type: shield
-url: https://github.com/a-wark/new-kid-on-the-block-60-module
 requires: [pro_micro]
 exposes: [i2c_oled]
 features:
